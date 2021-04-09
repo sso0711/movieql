@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Movie API with GraphQL",
   "main": "index.js",
-  "repository": "https://github.com/sso0711/movieql"
+  "repository": "https://github.com/sso0711/movieql",
   "license": "MIT"
 }
